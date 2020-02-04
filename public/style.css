@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  background-color: #81E4DA;
+  /* background-image: url("../photos/cinema_background.jpg"); */
+  /* justify-content: center; */
+  flex-direction: column;
+  align-items: center;
+  /* flex-wrap: nowrap; */
+}
+a {
+
+color:#93748A;
+  font-size: 350%;
+
+
+}
+ul {
+
+  list-style: none;
+}
+
+h1 {
+  color: #6868AD;
+  font-size: 400%;
+}
+h2 {
+  /* width: 99%; */
+  /* padding: 20px 20px; */
+  align-content:center;
+  justify-content: center;
+
+}
+
+h3{
+  font-size: 80%;
+}

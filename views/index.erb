@@ -1,0 +1,7 @@
+<h1>FILM LIST</h1>
+
+<% for film in @films %>
+<ul>
+<li><a href="/films/<%=film.id%>"><%=film.title %></a></li>
+</ul>
+<% end %>
